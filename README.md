@@ -7,4 +7,4 @@ GAME RULES:
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GL0BAL score. After that, it's the next player's turn.
 - The first player to reach Max points on GLOBAL score wins the game.
 
-Just clone everything and open index.html to start playing. ;)
+Just clone everything and open index.html to start playing. ;)...
