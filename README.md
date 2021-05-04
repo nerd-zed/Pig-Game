@@ -8,3 +8,4 @@ GAME RULES:
 - The first player to reach Max points on GLOBAL score wins the game.
 
 Just clone everything and open index.html to start playing. ;)
+.........................................
